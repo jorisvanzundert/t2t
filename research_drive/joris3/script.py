@@ -9,13 +9,13 @@ from transformers import pipeline
 
 def get_input_folder( argv ):
     if( len( argv ) != 2 ):
-        return './research_drive/joris2/inputfolder'
+        return './research_drive/joris3/inputfolder'
     else:
         return argv[0]
 
 def get_output_folder( argv ):
     if( len( argv ) != 2 ):
-        return './research_drive/joris2/outputfolder'
+        return './research_drive/joris3/outputfolder'
     else:
         return argv[1]
 
