@@ -1,1 +1,0 @@
-{"./research_drive/joris/inputfolder/test.xml": {"spaces": 4043}, "./research_drive/joris/inputfolder/test.txt": {"spaces": 2366}}
