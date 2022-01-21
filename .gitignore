@@ -3,6 +3,7 @@ scratchpad
 results
 data_test
 .DS_Store
+bert-base-dutch-cased-finetuned-conll2002-ner
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
