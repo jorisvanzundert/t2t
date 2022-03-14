@@ -6,6 +6,7 @@ data_test
 bert-base-dutch-cased-finetuned-conll2002-ner
 research_drive/joris*/inputfolder
 research_drive/joris*/outputfolder
+alpino_data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
